@@ -8,9 +8,9 @@ public class additionOfTwoNumbers {
         x = myObj.nextInt(); // Read user input
 
         System.out.println("Type another number:");
-        y = myObj.nextInt(); // Read user input
+        y = myObj.nextInt(); // Read user input10
 
         sum = x + y;
         System.out.println("Sum is: " + sum); // Output user input
     }
-} 
+}
